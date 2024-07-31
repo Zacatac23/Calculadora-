@@ -3,7 +3,7 @@ package org.example
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun Main() {
-    val calculator = ScientificCalculator()
+    val calculator = CalculadoraPrincipal()
 
     val expressions = listOf(
         "3 + 5",
