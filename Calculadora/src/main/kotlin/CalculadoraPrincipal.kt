@@ -1,4 +1,4 @@
-class ScientificCalculator {
+class CalculadoraPrincipal {
 
     // Método principal para evaluar la expresión
     fun evaluate(expression: String): Double {
