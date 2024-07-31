@@ -2,7 +2,7 @@ package org.example
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-fun main() {
+fun Main() {
     val calculator = ScientificCalculator()
 
     val expressions = listOf(
